@@ -1,0 +1,11 @@
+{
+  "2310": "Overcurrent",
+  "2330": "Earth Leakage",
+  "2340": "Short Circuit",
+  "3130": "Input Phase Loss",
+  "3210": "DC Link Overvoltage",
+  "3220": "DC Link Undervoltage",
+  "3381": "Output Phase Loss",
+  "5091": "STO",
+  "6681": "Fieldbus Communication Loss"
+}
